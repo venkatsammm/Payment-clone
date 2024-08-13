@@ -2,7 +2,7 @@ Here’s a concise README with just the app description and features:
 
 ---
 
-# Payment Clone
+# Paytm Clone
 
 ## Overview
 The Payment Clone project is a simplified version of a payment processing system. It simulates essential operations like handling payments, viewing transaction history, and managing user accounts. This project is designed to demonstrate the core functionalities of a modern payment gateway.
